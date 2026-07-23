@@ -1,5 +1,5 @@
 :root {
-  --primary: #503432;
+  --primary: #e40c4d;
   --secondary: #f6a623;
   --dark: #1a1a1a;
   --green: #2d6a4f;
@@ -19,7 +19,7 @@ html {
 }
 body {
   font-family: "Poppins", sans-serif;
-  color: #444;
+  color: #f61414;
   background: #fff;
   overflow-x: hidden;
 }
